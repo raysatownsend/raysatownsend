@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Prazer, Raysa Townsend!</h1>
+<h1 align="center">Prazer, Raysa Townsend!</h1>
 <h3 align="center" style="italic">Uma apaixonada pelo desenvolvimento de novos aplicativos e APIs!</h3>
 <br>
 
